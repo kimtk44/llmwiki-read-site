@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: 0525-1431_capture_deepseek-v4-kilo-flowgraph-bench
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash
 ---
 
 # DeepSeek V4 Pro/Flash vs Opus 4.7 vs Kimi K2.6 (Kilo FlowGraph Bench)
@@ -56,3 +57,5 @@ Max Plan(평정 요금제)의 토큰 가격은 소진 시점에 따라 극단적
 *   Kilo.ai 벤더 블로그이지만, **재현 기반**으로 엄격한 검증 수행 (studiomi300의 vote-farming 데모와 대조됨). ^[0525-1431_capture_deepseek-v4-kilo-flowgraph-bench.md]
 *   Opus/Kimi 숫자는 이전 실행 데이터를 재사용한 것이므로 재테스트되지 않았음(Caveat). ^[0525-1431_capture_deepseek-v4-kilo-flowgraph-bench.md]
 *   r/kimi의 "Europe Claude vs China" 논쟁 댓글은 사실 오류(Claude는 US 기반)를 포함하므로 노이즈로 간주. ^[0525-1431_capture_deepseek-v4-kilo-flowgraph-bench.md]
+
+출처: https://blog.kilo.ai/p/we-tested-deepseek-v4-pro-and-flash

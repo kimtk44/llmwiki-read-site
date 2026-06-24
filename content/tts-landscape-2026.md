@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: tts-landscape-2026
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://huggingface.co/Supertone/supertonic-3
 ---
 
 # Local Voice/Audio Models Landscape — 2026-03 압축 노트
@@ -72,3 +73,5 @@ fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
 ## 참고: 영상 자막 도구 (WhisperSubTranslate)
 *   **아키텍처 재사용 포인트**: **"STT 로컬 고정 + 번역 엔진 플러그형"** 패턴. 완전 오프라인(local HY-MT GGUF) ↔ 온라인 키(MyMemory/DeepL/OpenAI/Gemini) 스위처블.
 *   **주의**: whisper.cpp auto-download는 CUDA 바이너리 → AMD는 수동 빌드 필요. 한국어 오프라인 MT 품질 미검증 ^[tts-landscape-2026.md].
+
+출처: https://huggingface.co/Supertone/supertonic-3

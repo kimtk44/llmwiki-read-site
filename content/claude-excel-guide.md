@@ -5,6 +5,8 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: claude-excel-guide
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://wikidocs.net/335952
+link_status: dead(2026-06-24)
 ---
 
 # Claude 엑셀 소개글 압축 노트

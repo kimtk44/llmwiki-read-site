@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: anthropic-managed-agents-2026-04-08
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://claude.com/blog/claude-managed-agents
 ---
 
 # Claude Managed Agents (Anthropic, 2026-04-08) 압축 지식 노트
@@ -65,3 +66,5 @@ Credentials(자격 증명)가 샌드박스 내부로 유출되지 않도록 두 
 *   **시점**: 2026-04-08 Public Beta 기준. 2026-04-29 기준 추가 Docs Fetch로 일부 미명시 사항(Max Session Duration 등)이 여전히 미발표 상태임을 확인.
 *   **Multi-Agent**: Research Preview 단계로, 별도 액세스 폼 신청 필요. 1단계 위임만 지원(재위임 불가).
 *   **환경**: 지원 패키지 매니저는 apt, cargo, gem, go, npm, pip 등. 네트워킹은 Unrestricted(기본) 또는 Limited. ^[anthropic-managed-agents-2026-04-08.md]
+
+출처: https://claude.com/blog/claude-managed-agents

@@ -5,6 +5,8 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: voxtral-cloning-hack
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://github.com/Al0olo/voxtral-voice-clone
+link_status: dead(2026-06-24)
 ---
 
 # Voxtral TTS Voice Cloning 복원

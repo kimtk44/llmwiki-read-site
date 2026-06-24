@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: firma-cli-portfolio-claude-mcp
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://firma-cli.vercel.app/
 ---
 
 # firma: Claude MCP 기반 로컬 퍼스트 자산관리 CLI
@@ -28,3 +29,5 @@ fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
 *   **환경 의존**: Claude Desktop UX를 가정하므로 Claude Code CLI에서는 직접 호출 불가 (MCP 프로토콜은 동일하나) ^[firma-cli-portfolio-claude-mcp.md].
 
 **시점 의존성**: 이 자료는 2026년 4월 기준 정보이며, API 티어 제한이나 기능 추가 현황은 시점에 따라 변경될 수 있다 ^[firma-cli-portfolio-claude-mcp.md].
+
+출처: https://firma-cli.vercel.app/

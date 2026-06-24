@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: scope-creep-overthinking-kevinlynagh
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://kevinlynagh.com/newsletter/2026_04_overthinking/
 ---
 
 # 과도한 고민이 시스템을 죽인다: Prototype-Driven의 교훈
@@ -32,3 +33,5 @@ Scope Creep 회피가 도를 넘어 **필수 설계 누락**으로 이어질 수
 *   Prototype 후 회귀 메커니즘의 효율 측정
 *   마감기한과 도메인 이해도의 Trade-off 분석
 *   Tree-sitter 기반 Structural Diff를 한국어 문서(HWP/HWPX)에 적용하는 가능성 ^[scope-creep-overthinking-kevinlynagh.md].
+
+출처: https://kevinlynagh.com/newsletter/2026_04_overthinking/

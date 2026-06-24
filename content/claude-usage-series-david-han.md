@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: claude-usage-series-david-han
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://brunch.co.kr/@a2424c82fc944a6
 ---
 
 # "Claude, 나는 이렇게 쓴다" 시리즈: 비개발자 관점의 AI 활용 전략
@@ -31,3 +32,5 @@ HR 전문가이자 콘텐츠 마케터인 David Han은 비개발자를 위한 Cl
 ## 참고 사항
 *   **시점:** 자료 작성일 기준 2026년 3월 말. 도구명(ZenSpark, Skywork 등) 및 버전은 당시 기준이며, 현재 유효성 확인 필요 ^[claude-usage-series-david-han.md].
 *   **상세:** 구체적인 프롬프트 예시 및 도구 설정 방법은 원본 ^[claude-usage-series-david-han.md] 참조.
+
+출처: https://brunch.co.kr/@a2424c82fc944a6

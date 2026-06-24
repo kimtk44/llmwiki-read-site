@@ -5,6 +5,7 @@ graduated: 2026-06-02
 model: qwen36-35b-a3b
 slug: scope-creep-overthinking
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://kevinlynagh.com/newsletter/2026_04_overthinking/
 ---
 
 # 과도한 고민이 시스템을 죽인다: Prototype-Driven의 교훈
@@ -45,3 +46,5 @@ Emacs fuzzy 검색 도구 개발 중 'anchor 기능' 추가를 위해 한 달을
 
 ## Vault proximity
 ★★★★ — 본 세션 작업 패턴 및 plan 작성 일반 룰에 직접 적용 가능. 향후 plan 작성 및 LLM 리뷰 흡수 시 cross-ref 필수.
+
+출처: https://kevinlynagh.com/newsletter/2026_04_overthinking/

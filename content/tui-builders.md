@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: tui-builders
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://tui.builders
 ---
 
 # tui.builders — 시각적 TUI 설계 및 Rust 코드 생성 도구
@@ -24,3 +25,5 @@ fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
 **메타데이터**
 *   **분류**: `remember` (즉시 학습 대상은 아니나, 향후 도구 필요 시 참조용) ^[tui-builders.md].
 *   **시점**: 2026-03-18 기준 정보 ^[tui-builders.md].
+
+출처: https://tui.builders

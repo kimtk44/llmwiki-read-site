@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: ai-vibe-coding-diary
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://brunch.co.kr/@103ab3ed4f1f4f6/86
 ---
 
 # AI, 기죽지 맙시다 — 바이브코딩 삽질기 (셉PM)
@@ -30,3 +31,5 @@ fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
 
 *   **작성일**: 2026-03-24 ^[ai-vibe-coding-diary.md]
 *   **상태**: To Read (읽기 전이지만, 핵심 주장은 이미 명시됨) ^[ai-vibe-coding-diary.md]
+
+출처: https://brunch.co.kr/@103ab3ed4f1f4f6/86

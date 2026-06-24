@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: google-labs-free-ai-tools
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://learnyourway.withgoogle.com
 ---
 
 # Google Free AI Tools — Google Labs 정리 (Reddit r/PromptEngineering)
@@ -37,3 +38,5 @@ fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
 
 ---
 *시점 의존성: Pomelli의 기능 추가 시점(2026년 2월) 및 Nano Banana의 사용자 수(출시 4일 기준)는 입력 자료 기준 시점의 정보임 ^[google-labs-free-ai-tools.md].*
+
+출처: https://learnyourway.withgoogle.com

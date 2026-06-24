@@ -5,6 +5,7 @@ graduated: 2026-06-10
 model: qwen36-35b-a3b
 slug: link-analysis-2026-04-11
 fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
+source_url: https://news.hada.io/topic?id=28310
 ---
 
 # 링크 분석 — 2026-04-11 압축 노트
@@ -59,3 +60,5 @@ fidelity: faithful-korean (no-elaborate, cited, original preserved in vault)
     2.  Scion의 3차원 상태 모델을 `.claude-lock`에 프로토타입 적용.
     3.  Advisor Opus 4-md 파일 구조 해체 및 Skill-System 적용.
     4.  Reference 문서의 'dead axis' 탐지 및 보완. ^[link-analysis-2026-04-11.md]
+
+출처: https://news.hada.io/topic?id=28310
